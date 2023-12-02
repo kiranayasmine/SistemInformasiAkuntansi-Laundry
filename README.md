@@ -1,13 +1,11 @@
 <p align="center"><img src="https://laravel.com/img/logotype.min.svg" width="400"></p>
 
-# Aplikasi Laundry Sederhana
-
-Aplikasi ini merupakan aplikasi laundry sederhana yang dibuat dengan framework Laravel 7 (sudah diupgrade ke Laravel 9). Aplikasi ini adalah project untuk menyelesaikan UAS Metodologi Penulisan Ilmiah ITB STIKOM Bali.
+# Aplikasi Laundry
 
 Daftar/Register admin dengan url `/register-admin`. Secret key dapat diubah di env atau default "Secret123".
 
 Login admin:  
-Email : admin@laundryxyz.com  
+Email : admin@laundry.com  
 Pass : admin123
 
 ## Instalasi
@@ -28,19 +26,12 @@ php artisan migrate:fresh --seed
 
 ## Informasi Tambahan
 
-Aplikasi ini juga menerapkan queue database untuk menghapus foto profil ketika diganti, kalian bisa mengganti environment variable `QUEUE_CONNECTION` menjadi database.
+Frontend:
+<img width="960" alt="Screenshot 2023-12-02 214355" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/13b61dbd-48c2-4326-a9aa-4cbe6dac9c30">
+Backend:
+<img width="960" alt="Screenshot 2023-12-02 214417" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/098a6819-b184-46ea-9a6e-204f2261fbe2">
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
--   [Simple, fast routing engine](https://laravel.com/docs/routing).
--   [Powerful dependency injection container](https://laravel.com/docs/container).
--   Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
--   Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
--   Database agnostic [schema migrations](https://laravel.com/docs/migrations).
--   [Robust background job processing](https://laravel.com/docs/queues).
--   [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 # SistemInformasiAkuntansi-Laundry
