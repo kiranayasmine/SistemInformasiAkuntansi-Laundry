@@ -31,7 +31,11 @@ Frontend:
 Backend:
 <img width="960" alt="Screenshot 2023-12-02 214417" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/098a6819-b184-46ea-9a6e-204f2261fbe2">
 
+Designer phpMyAdmin:
+<img width="960" alt="Screenshot 2023-12-02 191332" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/e5ec2797-ed71-4b3e-82e2-0b5d7ac87b3c">
+
+Structure Database phpMyAdmin:
+<img width="960" alt="Screenshot 2023-12-02 215109" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/0eb6f9c1-4239-4639-9553-a4a95dd16f57">
 
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 # SistemInformasiAkuntansi-Laundry
