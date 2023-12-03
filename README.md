@@ -5,7 +5,7 @@
 Daftar/Register admin dengan url `/register-admin`. Secret key dapat diubah di env atau default "Secret123".
 
 Login admin:  
-Email : admin@laundry.com  
+Email : admin@laundryxyz.com
 Pass : admin123
 
 ## Instalasi
