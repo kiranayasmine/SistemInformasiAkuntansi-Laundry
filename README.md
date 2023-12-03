@@ -47,5 +47,13 @@ Designer phpMyAdmin:
 Structure Database phpMyAdmin:
 <img width="960" alt="Screenshot 2023-12-02 215109" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/0eb6f9c1-4239-4639-9553-a4a95dd16f57">
 
+Flowchart User:
+![user-laundry drawio](https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/e87cfa5f-1da5-4bf9-9a15-d29826fdb878)
+
+Flowchart admin:
+![admin-laundry drawio](https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/b5cd5769-c9b4-4b45-af8b-e67318aebc01)
+
+
+
 
 # SistemInformasiAkuntansi-Laundry
