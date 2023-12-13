@@ -34,13 +34,17 @@ Backend:
 
 Menu Input Transaksi:
 <img width="960" alt="Screenshot 2023-12-02 214437" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/e4bd3cea-724e-444f-a190-5fa7d5862d0d">
-
 Menu Riwayat Transaksi:
 <img width="960" alt="Screenshot 2023-12-02 214502" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/19e3797f-7cac-4a25-af18-9d805f18bd83">
+Menu Saran/Komplain:
 <img width="960" alt="Screenshot 2023-12-03 092306" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/028d21db-1805-42e2-8767-a7a6126cca5c">
+Menu Voucher:
 <img width="960" alt="Screenshot 2023-12-03 092240" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/5228188b-6f03-4fd8-8590-6c383922f59d">
+Menu Daftar Member:
 <img width="960" alt="Screenshot 2023-12-03 092225" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/07e94f5f-05c4-4a23-87b6-8d4ec445cdb3">
+Menu Daftar Harga:
 <img width="960" alt="Screenshot 2023-12-03 092205" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/d22f713c-65d9-4186-8184-1dce62f3d155">
+Menu Laporan Keuangan:
 <img width="960" alt="Screenshot 2023-12-03 092325" src="https://github.com/kiranayasmine/SistemInformasiAkuntansi-Laundry/assets/152698796/1ed153cf-2e97-41c3-a995-887ca90656ef">
 
 
